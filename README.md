@@ -13,6 +13,8 @@ While using this products we would like you to remember our product tos and foll
 
 • Rebranding, you may not rebrand any of our products. This includes, editing, removing, renaming or covering up any part of the branding.
 
+• CoGroup must be credited somewhere inside of your game, whether it be the game description or a textlabel in-game.
+
 THIS IS AN OLD VERSION OF OUR SYSTEM AND IS NO LONGER USED,
 PLEASE NOTE THE CODE IS POORLY WRITTEN
 
